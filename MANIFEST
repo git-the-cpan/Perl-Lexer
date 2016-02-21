@@ -56,6 +56,7 @@ lib/Perl/gen/perly-5.21.9.h
 lib/Perl/gen/perly-5.22.0.h
 lib/Perl/gen/perly-5.23.0.h
 lib/Perl/gen/perly-5.23.4.h
+lib/Perl/gen/perly-5.23.8.h
 lib/Perl/gen/perly-latest.h
 lib/Perl/gen/token_info-5.10.0.h
 lib/Perl/gen/token_info-5.11.0.h
@@ -104,6 +105,7 @@ lib/Perl/gen/token_info-5.21.9.h
 lib/Perl/gen/token_info-5.22.0.h
 lib/Perl/gen/token_info-5.23.0.h
 lib/Perl/gen/token_info-5.23.4.h
+lib/Perl/gen/token_info-5.23.8.h
 lib/Perl/gen/token_info-latest.h
 lib/Perl/gen/token_info_map.h
 lib/Perl/ppport.h
